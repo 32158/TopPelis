@@ -1,4 +1,14 @@
+  
+Options -Indexes
+
+
+<IfModule mod_rewrite.c>
+# Activar RewriteEngine
 RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteRule ^(.*)$ $1.html [NC,L]
+RewriteBase /perutec/
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+RewriteRule ^(.*)$ $1.php
+
+</IfModule>
