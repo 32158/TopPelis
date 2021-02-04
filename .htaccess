@@ -5,7 +5,7 @@ Options -Indexes
 <IfModule mod_rewrite.c>
 # Activar RewriteEngine
 RewriteEngine on
-RewriteBase /perutec/
+RewriteBase /top.pelis-main/
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
  
