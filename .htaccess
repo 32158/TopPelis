@@ -9,6 +9,6 @@ RewriteBase /perutec/
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
  
-RewriteRule ^(.*)$ $1.php
+RewriteRule ^(.*)$ $1.html
 
 </IfModule>
