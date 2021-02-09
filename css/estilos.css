@@ -104,23 +104,17 @@ body{
     
 }
 
-.ver-peli:hover {
-    font-size: 25px;
+.peli-streno a:hover {
+    transform: scale(1.3);
     transition: 0.5s;
+    box-shadow: 1px 1px 10px rgb(20, 20, 20);
    
     
     
     
     
 }
-.verpelicaja:hover{
-    width: 100%;
-    background: rgb(246, 246, 255);
-    height: 50px;
-    top: 0;
-    left: 0;
 
-}
 .ver-peli{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 650;
@@ -187,6 +181,11 @@ main{
     position: relative;
    
    transition: 0.3s;
+   overflow: hidden;
+}
+.imagen a :hover{
+    filter: blur(3px);
+    
 }
 .imagen-nom{
     margin: 5px;
