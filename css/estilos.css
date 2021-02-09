@@ -101,16 +101,16 @@ body{
     
 }
 
-.ver-peli:hover {
-    font-size: 25px;
-    transition: 0.5s;
+.ver-peli-estreno-centro:hover {
+    transform: scale(1.5);
+    transition: 0.4s;
    
     
     
     
     
 }
-.verpelicaja:hover{
+.verpeliscaja:hover{
     width: 100%;
     background: rgb(246, 246, 255);
     height: 50px;
