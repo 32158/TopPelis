@@ -25,7 +25,7 @@ body{
     overflow: hidden;
     text-align: center;
     z-index: 11;
-   
+    transition: 0.3s;
 }
 
 .header a{
