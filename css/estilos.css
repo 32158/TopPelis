@@ -183,10 +183,7 @@ main{
    transition: 0.3s;
    overflow: hidden;
 }
-.imagen a :hover{
-    filter: blur(3px);
-    
-}
+
 .imagen-nom{
     margin: 5px;
 }
