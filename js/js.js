@@ -9,3 +9,9 @@ window.addEventListener("scroll", function (){
     }
     ubicacionPrincipal=desplazamientoActual
 })
+
+
+      
+
+
+
