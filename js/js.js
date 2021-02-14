@@ -12,7 +12,14 @@ window.addEventListener("scroll", function (){
 
 var conte = document.getElementById("cont");
 
-const datos=[{
+const datos=[
+    
+{
+    nombre:"En guerra con mi abuelo",
+    imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/tsWVxuztbOt7roV9oiLZohkLu3r.jpg",
+    direccion:"ventana/En-guerra-con-mi-abuelo"
+},
+{
     nombre:"Inmune (2020)",
     imagen:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/DxDIioCnlhjIL1vEhfrLTBg0VU.jpg",
     direccion:"ventana/Inmune-2020"
