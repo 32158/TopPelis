@@ -13,7 +13,12 @@ window.addEventListener("scroll", function (){
 var conte = document.getElementById("cont");
 
 const datos=[
-    
+ 
+    {
+        nombre:"After 3 Almas Perdidas",
+        imagen:"../img/Sin título.jpg",
+        direccion:"ventana/After-3-Almas-Perdidas"
+    },
 {
     nombre:"En guerra con mi abuelo",
     imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/tsWVxuztbOt7roV9oiLZohkLu3r.jpg",
