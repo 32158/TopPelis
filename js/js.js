@@ -16,7 +16,7 @@ const datos=[
  
     {
         nombre:"After 3 Almas Perdidas",
-        imagen:"../img/Sin título.jpg",
+        imagen:"img/Sin título.jpg",
         direccion:"ventana/After-3-Almas-Perdidas"
     },
 {
