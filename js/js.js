@@ -13,6 +13,11 @@ window.addEventListener("scroll", function (){
 var conte = document.getElementById("cont");
 
 const datos=[
+    {
+        nombre:"Barrenderos espaciales (2021)",
+        imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/x6TTdrTeBVDKVCf9FUERmwNty7W.jpg",
+        direccion:"Barrenderos-espaciales"
+    },
  
     {
         nombre:"After 3 Almas Perdidas",
