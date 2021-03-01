@@ -16,7 +16,7 @@ const datos=[
     {
         nombre:"Barrenderos espaciales (2021)",
         imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/x6TTdrTeBVDKVCf9FUERmwNty7W.jpg",
-        direccion:"Barrenderos-espaciales"
+        direccion:"ventana/Barrenderos-espaciales"
     },
  
     {
