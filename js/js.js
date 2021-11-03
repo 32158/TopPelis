@@ -16,33 +16,33 @@ const datos=[
     {
         nombre:"Barrenderos espaciales (2021)",
         imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/x6TTdrTeBVDKVCf9FUERmwNty7W.jpg",
-        direccion:"ventana/Barrenderos-espaciales"
+        direccion:"https://32158.github.io/TopPelis/ventana/Barrenderos-espaciales"
     },
  
     {
         nombre:"After 3 Almas Perdidas",
         imagen:"img/Sin título.jpg",
-        direccion:"ventana/After-3-Almas-Perdidas"
+        direccion:"https://32158.github.io/TopPelis/ventana/After-3-Almas-Perdidas"
     },
 {
     nombre:"En guerra con mi abuelo",
     imagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/tsWVxuztbOt7roV9oiLZohkLu3r.jpg",
-    direccion:"ventana/En-guerra-con-mi-abuelo"
+    direccion:"https://32158.github.io/TopPelis/ventana/En-guerra-con-mi-abuelo"
 },
 {
     nombre:"Inmune (2020)",
     imagen:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/DxDIioCnlhjIL1vEhfrLTBg0VU.jpg",
-    direccion:"ventana/Inmune-2020"
+    direccion:"https://32158.github.io/TopPelis/ventana/Inmune-2020"
 },
 {
     nombre:"Mentes poderosas",
     imagen:"https://www.themoviedb.org/t/p/original/hHNxlhajOqKIYNTU2AEFuFmEJtx.jpg",
-    direccion:"ventana/Mentes-poderosas"
+    direccion:"https://32158.github.io/TopPelis/ventana/Mentes-poderosas"
 },
 {
     nombre:"Invasión: El fin de los tiempos",
     imagen:"https://www.themoviedb.org/t/p/original/8skHIUHUCEkWJ23q8mCSSR8SvYd.jpg",
-    direccion:"ventana/Invasión-El-fin-de-los-tiempos"
+    direccion:"https://32158.github.io/TopPelis/ventana/Invasión-El-fin-de-los-tiempos"
 },
 {
     nombre:"Greenland: El último refugio",
